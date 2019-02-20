@@ -4,5 +4,5 @@
   <li>Classifications</li>
   <li>Clusterings</li>
   <li>Natural Language Processing (NLP)</li>
-  <li>Principle Component Analysis (NLP)</li>
+  <li>Principle Component Analysis (PCA)</li>
 </ul>  
