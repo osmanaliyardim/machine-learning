@@ -2,6 +2,8 @@
 """
 Created on Fri Feb 22 09:09:17 2019
 
+@author: Osman Ali Yardım
+
 Machine Learning -  R-Square with Linear Regression
 
 Evaluation Regression Model Performance
