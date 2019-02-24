@@ -46,4 +46,4 @@ from sklearn.svm import SVC
 svm = SVC(random_state=42)
 svm.fit(x_train, y_train)
 
-print('accuracy of svm algorith: ', svm.score(x_test, y_test))
+print('accuracy of svm algorithm: ', svm.score(x_test, y_test))
