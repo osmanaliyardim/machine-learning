@@ -4,7 +4,7 @@ Created on Sun Feb 24 09:17:58 2019
 
 @author: Osman Ali YARDIM
 
-Machine Learning - Logistic Regression Implementation
+Machine Learning - KNN Implementation
 
 Lower Back Pain Symptoms Dataset / with Kaggle data
 """
